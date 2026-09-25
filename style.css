@@ -32,6 +32,10 @@ body{
     background-image: url('images/babytree.jpg');
 }
 
+.mature {
+    background-image: url('images/maturetree.jpg');
+}
+
 .content {min-height: 60vh;
 
   display: flex;
