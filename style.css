@@ -25,11 +25,11 @@ body{
 }
 
 .seed {
-    background-image: url('seed.jpg');
+    background-image: url('images/planting.jpg');
 }
 
 .baby {
-    background-image: url('images/bigtree.jpg');
+    background-image: url('images/babytree.jpg');
 }
 
 .content {min-height: 60vh;
