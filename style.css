@@ -36,6 +36,10 @@ body{
     background-image: url('images/bigtree.jpg');
 }
 
+.aging {
+    background-image: url('images/deadtree.jpg');
+}
+
 .content {min-height: 60vh;
 
   display: flex;
